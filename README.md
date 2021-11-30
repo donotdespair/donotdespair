@@ -17,7 +17,7 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 ### Thesis
 
-[Granger-Causal Analysis of Conditional Mean and Volatility Models](http://szeridan.blogspot.com.au/2012/12/granger-causal-analysis-of-conditional.html)
+[Granger-Causal Analysis of Conditional Mean and Volatility Models](http://cadmus.eui.eu/bitstream/handle/1814/25136/2012_Wozniak.pdf)
 
 ### Online Profiles
 
