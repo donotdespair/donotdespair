@@ -17,7 +17,7 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 ### Thesis
 
-[Granger-Causal Analysis of Conditional Mean and Volatility Models](http://cadmus.eui.eu/bitstream/handle/1814/25136/2012_Wozniak.pdf)
+[Granger-Causal Analysis of Conditional Mean and Volatility Models](http://cadmus.eui.eu/bitstream/handle/1814/25136/2012_Wozniak.pdf) defended at the **European University Institute** on 18 December 2012
 
 ### R codes
 
@@ -27,13 +27,13 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 ### Blogposts and Media
 
-[Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in [Rcpp Gallery](https://gallery.rcpp.org/) on 5 September 2021  
+[Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021  
 
-[2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) SBS Polish Radio broadcasted on 3 April 2022  
-[Budget of lost opportunities?](https://www.sbs.com.au/language/polish/audio/budzet-straconych-szans) SBS Polish Radio broadcasted on 16 May 2021  
-[Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) SBS Polish Radio broadcasted on 30 August 2020  
-[Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) SBS Polish Radio broadcasted on 7 June 2020  
-[Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) Australian Institute for Polish Affairs youtube channel published on 8 May 2020
+[2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) **SBS Polish Radio** broadcasted on 3 April 2022  
+[Budget of lost opportunities?](https://www.sbs.com.au/language/polish/audio/budzet-straconych-szans) **SBS Polish Radio** broadcasted on 16 May 2021  
+[Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020  
+[Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020  
+[Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
 
 ### Online Profiles
 
