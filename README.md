@@ -19,6 +19,12 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 [Granger-Causal Analysis of Conditional Mean and Volatility Models](http://cadmus.eui.eu/bitstream/handle/1814/25136/2012_Wozniak.pdf)
 
+### R codes
+
+[Bayesian Inference for Structural Vector Autoregressions Identified with Markov-Switching Heteroskedasticity](https://gitlab.com/tomaszwozniak/SVAR-MSH-ID)  
+[Bayesian Estimation of Markov-Switching VARs for Granger Causal Inference in R](https://gitlab.com/tomaszwozniak/BayesianMS-VAR-GC)  
+[Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
+
 ### Blogposts and Media
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in [Rcpp Gallery](https://gallery.rcpp.org/) on 5 September 2021  
