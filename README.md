@@ -31,6 +31,7 @@ Tomasz has an extensive teaching portfolio, including developing and lecturing g
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021  
 
+[Australian economy is relatively fine](https://www.sbs.com.au/language/polish/audio/gospodarka-australii-ma-sie-dobrze) **SBS Polish Radio** broadcasted on 10 April 2022  
 [2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) **SBS Polish Radio** broadcasted on 3 April 2022  
 [Budget of lost opportunities?](https://www.sbs.com.au/language/polish/audio/budzet-straconych-szans) **SBS Polish Radio** broadcasted on 16 May 2021  
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020  
@@ -39,7 +40,7 @@ Tomasz has an extensive teaching portfolio, including developing and lecturing g
 
 ### Online Profiles
 
-[GitLab](https://gitlab.com/tomaszwozniak) [GitHub](https://github.com/donotdespair) [Portfolio](bit.ly/tomaszwozniak) [GoogleScholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1) [ResearchGate](http://www.researchgate.net/profile/Tomasz_Wozniak4) 
+[GitLab](https://gitlab.com/tomaszwozniak) [GitHub](https://github.com/donotdespair) [GoogleScholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
 
 ### Contact
 
