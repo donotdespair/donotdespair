@@ -2,11 +2,11 @@
 
 Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy. 
 
-In his research, he investigates reliable methods for assessing economic hypotheses. He published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit nonlinear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models. 
+In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit nonlinear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models. 
 
 He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modeling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**.
 
-Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, **Quantitative Analysis of Finance 2**, and **Advanced Topics in Bayesian Econometrics**.
+Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, **Quantitative Analysis of Finance 2**, and **Advanced Topics in Bayesian Econometrics**.
 
 ### Publications
 
@@ -21,7 +21,7 @@ Tomasz has an extensive teaching portfolio, including developing and lecturing g
 
 [Granger-Causal Analysis of Conditional Mean and Volatility Models](http://cadmus.eui.eu/bitstream/handle/1814/25136/2012_Wozniak.pdf) defended at the **European University Institute** on 18 December 2012
 
-### R codes
+### R code
 
 [Bayesian Inference for Structural Vector Autoregressions Identified with Markov-Switching Heteroskedasticity](https://gitlab.com/tomaszwozniak/SVAR-MSH-ID)  
 [Bayesian Estimation of Markov-Switching VARs for Granger Causal Inference in R](https://gitlab.com/tomaszwozniak/BayesianMS-VAR-GC)  
