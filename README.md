@@ -37,6 +37,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
+[The first budget of Labor government](https://www.sbs.com.au/language/polish/pl/podcast-episode/pierwszy-budzet-nowego-rzadu-australii-dobry-czy-z%C5%82y/gbmc1sphf) **SBS Polish Radio** broadcasted on 30 October 2022\
 [Australian economy is relatively fine](https://www.sbs.com.au/language/polish/audio/gospodarka-australii-ma-sie-dobrze) **SBS Polish Radio** broadcasted on 10 April 2022\
 [2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) **SBS Polish Radio** broadcasted on 3 April 2022\
 [Budget of lost opportunities?](https://www.sbs.com.au/language/polish/audio/budzet-straconych-szans) **SBS Polish Radio** broadcasted on 16 May 2021\
