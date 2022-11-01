@@ -4,7 +4,7 @@ Tomasz is an **econometrician** developing the methodology for empirical macroec
 
 In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit nonlinear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models.
 
-He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modeling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**.
+He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**.
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, **Quantitative Analysis of Finance 2**, and **Advanced Topics in Bayesian Econometrics**.
 
@@ -37,6 +37,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
+[Finder's RBA cash rate survey: October](https://www.finder.com.au/rba-survey-28-october-2022) published on 28 October 2022, gets mentioned [here](https://www.news.com.au/finance/economy/interest-rates/bitter-pill-to-swallow-experts-grim-4-interest-rate-warning/news-story/8d95ff725a45b705649c4c2dca88589f) and [here](https://www.news.com.au/finance/economy/interest-rates/too-much-rba-tipped-to-confirm-seventh-consecutive-rate-rise-as-mortgage-cliff-looms/news-story/8f9c421356f5a9f8c703ebc61810ebb7)\
 [The first budget of Labor government](https://www.sbs.com.au/language/polish/pl/podcast-episode/pierwszy-budzet-nowego-rzadu-australii-dobry-czy-z%C5%82y/gbmc1sphf) **SBS Polish Radio** broadcasted on 30 October 2022\
 [Australian economy is relatively fine](https://www.sbs.com.au/language/polish/audio/gospodarka-australii-ma-sie-dobrze) **SBS Polish Radio** broadcasted on 10 April 2022\
 [2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) **SBS Polish Radio** broadcasted on 3 April 2022\
