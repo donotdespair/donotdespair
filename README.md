@@ -35,6 +35,8 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### Blogposts and Media
 
+[RBA Cash Rate Survey Forecasts](https://donotdespair.github.io/cash-rate-survey-forecasts/)
+
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
 [Finder's RBA cash rate survey: October](https://www.finder.com.au/rba-survey-28-october-2022) published on 28 October 2022, gets mentioned [here](https://www.news.com.au/finance/economy/interest-rates/bitter-pill-to-swallow-experts-grim-4-interest-rate-warning/news-story/8d95ff725a45b705649c4c2dca88589f) and [here](https://www.news.com.au/finance/economy/interest-rates/too-much-rba-tipped-to-confirm-seventh-consecutive-rate-rise-as-mortgage-cliff-looms/news-story/8f9c421356f5a9f8c703ebc61810ebb7)\
