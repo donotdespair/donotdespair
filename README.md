@@ -39,11 +39,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
-[Finder's RBA cash rate survey: October](https://www.finder.com.au/rba-survey-28-october-2022) published on 28 October 2022, gets mentioned [here](https://www.news.com.au/finance/economy/interest-rates/bitter-pill-to-swallow-experts-grim-4-interest-rate-warning/news-story/8d95ff725a45b705649c4c2dca88589f), 
-[here](https://www.news.com.au/finance/economy/interest-rates/too-much-rba-tipped-to-confirm-seventh-consecutive-rate-rise-as-mortgage-cliff-looms/news-story/8f9c421356f5a9f8c703ebc61810ebb7),
-[here](https://www.finder.com.au/rba-survey-1-november-2022),
-[here](https://www.dailymail.co.uk/news/article-11375371/Warning-Australian-property-prices-start-slide-faster-rates-rising.html), and
-[here](https://dynamicbusiness.com/topics/news/there-will-likely-be-another-cash-rate-hike-on-nov-1.html)\
+[Finder's RBA cash rate survey: October](https://www.finder.com.au/rba-survey-28-october-2022) published on 28 October 2022, gets mentioned [here](https://www.news.com.au/finance/economy/interest-rates/bitter-pill-to-swallow-experts-grim-4-interest-rate-warning/news-story/8d95ff725a45b705649c4c2dca88589f), [here](https://www.news.com.au/finance/economy/interest-rates/too-much-rba-tipped-to-confirm-seventh-consecutive-rate-rise-as-mortgage-cliff-looms/news-story/8f9c421356f5a9f8c703ebc61810ebb7), [here](https://www.finder.com.au/rba-survey-1-november-2022), [here](https://www.dailymail.co.uk/news/article-11375371/Warning-Australian-property-prices-start-slide-faster-rates-rising.html), and [here](https://dynamicbusiness.com/topics/news/there-will-likely-be-another-cash-rate-hike-on-nov-1.html)\
 [The first budget of Labor government](https://www.sbs.com.au/language/polish/pl/podcast-episode/pierwszy-budzet-nowego-rzadu-australii-dobry-czy-z%C5%82y/gbmc1sphf) **SBS Polish Radio** broadcasted on 30 October 2022\
 [Australian economy is relatively fine](https://www.sbs.com.au/language/polish/audio/gospodarka-australii-ma-sie-dobrze) **SBS Polish Radio** broadcasted on 10 April 2022\
 [2022 Budget of Australia... Good or bad?](https://www.sbs.com.au/language/polish/audio/budzet-australii-2022-dobry-czy-zly) **SBS Polish Radio** broadcasted on 3 April 2022\
