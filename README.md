@@ -33,9 +33,15 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Bayesian Estimation of Markov-Switching VARs for Granger Causal Inference in R](https://gitlab.com/tomaszwozniak/BayesianMS-VAR-GC)\
 [Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
 
+### Online Profiles
+
+[GitLab](https://gitlab.com/tomaszwozniak) [GitHub](https://github.com/donotdespair) [Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
+
 ### Blogposts and Media
 
 [RBA Cash Rate Survey Forecasts](https://donotdespair.github.io/cash-rate-survey-forecasts/)
+
+[Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
@@ -47,10 +53,6 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
-
-### Online Profiles
-
-[GitLab](https://gitlab.com/tomaszwozniak) [GitHub](https://github.com/donotdespair) [Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
 
 ### Contact
 
