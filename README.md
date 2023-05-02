@@ -1,3 +1,5 @@
+![](justwritecode.gif)
+
 ### Bio
 
 Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy.
