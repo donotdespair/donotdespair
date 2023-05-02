@@ -1,4 +1,4 @@
-![](justwritecode.gif)
+![](justwritecode.png)
 
 ### Bio
 
