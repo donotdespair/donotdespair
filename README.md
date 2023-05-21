@@ -8,8 +8,11 @@
 <a href="https://github.com/donotdespair">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
 </a>
+<a href="https://gitlab.com/tomaszwozniak">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/gitlab.svg" width="50" height="50">
+</a>
 
-[GitLab](https://gitlab.com/tomaszwozniak) [Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
+[Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
 
 ### Bio
 
