@@ -1,5 +1,12 @@
 ![](justwritecode.png)
 
+### 
+
+<a href="https://pagedart.com">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+</a>
+[GitLab](https://gitlab.com/tomaszwozniak) [Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
+
 ### Bio
 
 Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy.
@@ -35,10 +42,6 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Bayesian Estimation of Markov-Switching VARs for Granger Causal Inference in R](https://gitlab.com/tomaszwozniak/BayesianMS-VAR-GC)\
 [Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
 
-### Online Profiles
-
-[GitLab](https://gitlab.com/tomaszwozniak) [GitHub](https://github.com/donotdespair) [Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl) [Orcid](http://orcid.org/0000-0003-2212-2378) [arXiv](http://arxiv.org/a/wozniak_t_1) [LinkedIn](https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1)
-
 ### Blogposts and Media
 
 [RBA Cash Rate Survey Forecasts](https://donotdespair.github.io/cash-rate-survey-forecasts/)
@@ -56,13 +59,6 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
 
-### Contact
+### Teaching
 
-Department of Economics\
-University of Melbourne\
-111 Barry Street, FBE Building\
-Carlton, VIC 3053\
-Australia
-
-**email:** [tomasz.wozniak\@unimelb.edu.au](mailto:tomasz.wozniak@unimelb.edu.au){.email}\
-**office No.:** 350 (Level 3)
+![](mcxs.png){width="259"} ![](qaf1.png){width="259"}
