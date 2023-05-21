@@ -75,5 +75,4 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### Teaching
 
-<img src="mcxs.png" alt="macroeconometrics" height="300"> 
-<img src="qaf1.png" alt="quantitative analysis of finance" height="300"> 
+<img src="mcxs.png" alt="macroeconometrics" height="200"> <img src="qaf1.png" alt="quantitative analysis of finance" height="200"> 
