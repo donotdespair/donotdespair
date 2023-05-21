@@ -14,12 +14,15 @@
 <a href="http://orcid.org/0000-0003-2212-2378">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50">
 </a>
-
+<a href="http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google.svg" width="50" height="50">
+</a>
+<a href="http://arxiv.org/a/wozniak_t_1">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle-xmark.svg" width="50" height="50">
+</a>
 <a href="https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1">
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
 </a>
-
-[Scholar](http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl)  [arXiv](http://arxiv.org/a/wozniak_t_1) 
 
 ### Bio
 
