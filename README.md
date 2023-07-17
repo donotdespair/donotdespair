@@ -45,7 +45,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
-[Tomasz on University of Melbourne's Proposal to Raid Our Super](https://www.youtube.com/watch?v=u7rb2Ov-JIc) a comment for the unimelb branch of the **NTEU** published on 11 July 2023\
+[Tomasz on University of Melbourne's Proposal to Raid Our Super](https://www.youtube.com/watch?v=u7rb2Ov-JIc) a comment for the **NTEU** published on 11 July 2023\
 [Melbourne Uni's 'bizarre' 6pc pay rise proposal](https://www.afr.com/work-and-careers/workplace/melbourne-uni-s-bizarre-6pc-pay-rise-proposal-20230621-p5dib2) a comment at **The Australian Financial Review** published on 22 June 2023\
 [Should Labour get rid of the negative gearing?](https://www.sbs.com.au/language/polish/pl/podcast-episode/czy-partia-pracy-powinna-usunac-negative-gearing/993sby371) **SBS Polish Radio** broadcasted on 28 May 2023\
 [What's good in Labor's budget?](https://www.sbs.com.au/language/polish/pl/podcast-episode/co-dobrego-w-budzecie-laburzystow-w-australii/x1jzee0gb) **SBS Polish Radio** broadcasted on 21 May 2023\
