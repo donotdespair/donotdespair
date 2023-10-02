@@ -39,7 +39,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### Blogposts and Media
 
-[RBA Cash Rate Survey Forecasts](https://donotdespair.github.io/cash-rate-survey-forecasts/)
+[![Forecasting Cash Rate](fcr.png){height=200}](https://donotdespair.github.io/cash-rate-survey-forecasts/)
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
