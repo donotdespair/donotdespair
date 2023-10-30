@@ -47,8 +47,8 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### Blogposts and Media
 
-<a href="https://donotdespair.github.io/cash-rate-survey-forecasts/">
-<img src="fcr.png" alt="macroeconometrics" height="200"/>
+<a href="https://forecasting-cash-rate.github.io">
+<img src="fcr.png" alt="cash rate forecasts" height="200"/>
 </a> 
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
