@@ -22,6 +22,19 @@ Tomasz has an extensive teaching portfolio, including developing and lecturing g
 
 He has recently published his first **R** package [bsvars: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) with efficient algorithms for Bayesian estimation of Structural Vector Autoregressive (SVAR) models via Markov chain Monte Carlo methods. The package implements frontier statistical algorithms that are coded using **cpp** via **Rcpp** and **RcppArmadillo** packages. It includes a wide range of SVAR models, including homo- and heteroskedastic specifications and those with non-normal structural shocks.
 
+<a href="https://bsvars.github.io/bsvars/">
+<img src="bsvars.png" alt="bsvars package" height="200"/>
+</a> 
+<a href="https://forecasting-cash-rate.github.io">
+<img src="fcr.png" alt="cash rate forecasts" height="200"/>
+</a> 
+<a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
+<img src="mcxs.png" alt="macroeconometrics" height="200"/> 
+</a> 
+<a href="https://handbook.unimelb.edu.au/2024/subjects/econ90033">
+<img src="qaf1.png" alt="quantitative analysis of finance 1" height="200"/>
+</a> 
+
 ### Publications
 
 [Markov Switching](https://doi.org/10.1093/acrefore/9780190625979.013.174) with Yong Song, published in the **Oxford Research Encyclopedia of Economics and Finance** in 2021\
@@ -37,7 +50,10 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### R packages
 
-[bsvars: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)
+[**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
+[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
+[**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://github.com/bsvars/bsvarSIGNs)\
+More details at [bsvars.github.io](https://bsvars.github.io/)
 
 ### R code
 
@@ -46,10 +62,6 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
 
 ### Blogposts and Media
-
-<a href="https://forecasting-cash-rate.github.io">
-<img src="fcr.png" alt="cash rate forecasts" height="200"/>
-</a> 
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
@@ -70,7 +82,3 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
-
-### Teaching
-
-<img src="mcxs.png" alt="macroeconometrics" height="200"/> <img src="qaf1.png" alt="quantitative analysis of finance" height="200"/>
