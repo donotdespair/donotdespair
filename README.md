@@ -53,6 +53,7 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://github.com/bsvars/bsvarSIGNs)\
+[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
 More details at [bsvars.github.io](https://bsvars.github.io/)
 
 ### R code
@@ -63,13 +64,17 @@ More details at [bsvars.github.io](https://bsvars.github.io/)
 
 ### Blogposts and Media
 
-[Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
+[Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 20204\
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
+[**bsvars** package v3.0.0 preview for Macroeconometrics students](https://bsvars.github.io/2024-05-bsvars-mcxs/)\
 [Bayesian Econometrics lecture on Vector Autoregressions](https://bayesian-econometrics-2023.github.io/be23-lecture7/#/title-slide)\
 [Bayesian Econometrics lecture on Structural Vector Autoregressions](https://bayesian-econometrics-2023.github.io/be23-lecture8/#/title-slide)
 
+[Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
+
+[Labor's election year budget](https://www.sbs.com.au/language/polish/pl/podcast-episode/budzetp-partii-pracy-w-australii-2024/8xervq3yi) **SBS Polish Radio** broadcasted on 20 May 2024\
 [Tomasz on University of Melbourne's Proposal to Raid Our Super](https://www.youtube.com/watch?v=u7rb2Ov-JIc) a comment for the **NTEU** published on 11 July 2023\
 [Melbourne Uni's 'bizarre' 6pc pay rise proposal](https://www.afr.com/work-and-careers/workplace/melbourne-uni-s-bizarre-6pc-pay-rise-proposal-20230621-p5dib2) a comment at **The Australian Financial Review** published on 22 June 2023\
 [Should Labour get rid of the negative gearing?](https://www.sbs.com.au/language/polish/pl/podcast-episode/czy-partia-pracy-powinna-usunac-negative-gearing/993sby371) **SBS Polish Radio** broadcasted on 28 May 2023\
