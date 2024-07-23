@@ -27,7 +27,9 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 </a> 
 <a href="https://bsvars.github.io/bsvarSIGNs/">
 <img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
-</a> \
+</a>
+
+
 <a href="https://forecasting-cash-rate.github.io">
 <img src="fcr.png" alt="cash rate forecasts" height="200"/>
 </a> 
