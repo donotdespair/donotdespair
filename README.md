@@ -29,17 +29,6 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 <img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
 </a>
 
-
-<a href="https://forecasting-cash-rate.github.io">
-<img src="fcr.png" alt="cash rate forecasts" height="200"/>
-</a> 
-<a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
-<img src="mcxs.png" alt="macroeconometrics" height="200"/> 
-</a> 
-<a href="https://handbook.unimelb.edu.au/2024/subjects/econ90033">
-<img src="qaf1.png" alt="quantitative analysis of finance 1" height="200"/>
-</a> 
-
 ### Publications
 
 [Markov Switching](https://doi.org/10.1093/acrefore/9780190625979.013.174) with Yong Song, published in the **Oxford Research Encyclopedia of Economics and Finance** in 2021\
@@ -69,6 +58,16 @@ More details at [bsvars.github.io](https://bsvars.github.io/)
 [Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
 
 ### Blogposts and Media
+
+<a href="https://forecasting-cash-rate.github.io">
+<img src="fcr.png" alt="cash rate forecasts" height="200"/>
+</a> 
+<a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
+<img src="mcxs.png" alt="macroeconometrics" height="200"/> 
+</a> 
+<a href="https://handbook.unimelb.edu.au/2024/subjects/econ90033">
+<img src="qaf1.png" alt="quantitative analysis of finance 1" height="200"/>
+</a> 
 
 
 [Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 20204\
