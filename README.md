@@ -20,10 +20,13 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, **Quantitative Analysis of Finance 2**, and **Advanced Topics in Bayesian Econometrics**.
 
-He has recently published his first **R** package [bsvars: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) with efficient algorithms for Bayesian estimation of Structural Vector Autoregressive (SVAR) models via Markov chain Monte Carlo methods. The package implements frontier statistical algorithms that are coded using **cpp** via **Rcpp** and **RcppArmadillo** packages. It includes a wide range of SVAR models, including homo- and heteroskedastic specifications and those with non-normal structural shocks.
+He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier statistical algorithms that are coded using **cpp** via **RcppArmadillo**.
 
 <a href="https://bsvars.github.io/bsvars/">
 <img src="bsvars.png" alt="bsvars package" height="200"/>
+</a> 
+<a href="https://bsvars.github.io/bsvarSIGNs/">
+<img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
 </a> 
 <a href="https://forecasting-cash-rate.github.io">
 <img src="fcr.png" alt="cash rate forecasts" height="200"/>
@@ -50,11 +53,12 @@ He has recently published his first **R** package [bsvars: Bayesian Estimation o
 
 ### R packages
 
-[**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
-[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
-[**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://github.com/bsvars/bsvarSIGNs)\
-[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
 More details at [bsvars.github.io](https://bsvars.github.io/)
+
+[**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
+[**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
+[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
+[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
 
 ### R code
 
