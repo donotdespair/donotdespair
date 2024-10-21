@@ -2,30 +2,32 @@
 
 <a href="mailto:twozniak@unimelb.edu.au"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50"/> </a> 
 <a href="https://github.com/donotdespair"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/> </a> 
-<a href="https://gitlab.com/tomaszwozniak"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/gitlab.svg" width="50" height="50"/> </a> 
 <a href="http://orcid.org/0000-0003-2212-2378"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50"/> </a> 
-<a href="http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/google.svg" width="50" height="50"/> </a> 
-<a href="http://arxiv.org/a/wozniak_t_1"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle-xmark.svg" width="50" height="50"/> </a> 
+<a href="http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/google-scholar-square.svg" width="50" height="50"/> </a> 
+<a href="http://arxiv.org/a/wozniak_t_1"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/arxiv-square.svg" width="50" height="50"/> </a> 
 <a href="https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/> </a>
 <a href="https://fosstodon.org/@tomaszwozniak"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="50" height="50"/> </a>
-<a href="https://bsky.app/profile/tomaszwozniak.bsky.social"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svg" width="50" height="50"/> </a>
+<a href="https://bsky.app/profile/tomaszwozniak.bsky.social"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svghttps://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="50" height="50"/> </a>
 
 ### Bio
 
 Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy.
 
-In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit nonlinear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models.
+In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit non-linear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models.
 
 He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**.
 
-Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, **Quantitative Analysis of Finance 2**, and **Advanced Topics in Bayesian Econometrics**.
+Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, and **Quantitative Analysis of Finance 2**.
 
 He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier statistical algorithms that are coded using **cpp** via **RcppArmadillo**.
 
-<a href="https://bsvars.github.io/bsvars/">
+<a href="https://bsvars.org/">
+<img src="bsvars.org.png" alt="bsvars package" height="200"/>
+</a> 
+<a href="https://bsvars.org/bsvars/">
 <img src="bsvars.png" alt="bsvars package" height="200"/>
 </a> 
-<a href="https://bsvars.github.io/bsvarSIGNs/">
+<a href="https://bsvars.org/bsvarSIGNs/">
 <img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
 </a>
 
@@ -44,12 +46,12 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 
 ### R packages
 
-More details at [bsvars.github.io](https://bsvars.github.io/)
+More details at [bsvars.org](https://bsvars.org/)
 
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
 [**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
+[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
 
 ### R code
 
@@ -72,10 +74,6 @@ More details at [bsvars.github.io](https://bsvars.github.io/)
 
 [Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 20204\
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
-
-[**bsvars** package v3.0.0 preview for Macroeconometrics students](https://bsvars.github.io/2024-05-bsvars-mcxs/)\
-[Bayesian Econometrics lecture on Vector Autoregressions](https://bayesian-econometrics-2023.github.io/be23-lecture7/#/title-slide)\
-[Bayesian Econometrics lecture on Structural Vector Autoregressions](https://bayesian-econometrics-2023.github.io/be23-lecture8/#/title-slide)
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
