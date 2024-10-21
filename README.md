@@ -7,7 +7,7 @@
 <a href="http://arxiv.org/a/wozniak_t_1"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/arxiv-square.svg" width="50" height="50"/> </a> 
 <a href="https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/> </a>
 <a href="https://fosstodon.org/@tomaszwozniak"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="50" height="50"/> </a>
-<a href="https://bsky.app/profile/tomaszwozniak.bsky.social"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cloud.svghttps://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="50" height="50"/> </a>
+<a href="https://bsky.app/profile/tomaszwozniak.bsky.social"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="50" height="50"/> </a>
 
 ### Bio
 
@@ -51,7 +51,7 @@ More details at [bsvars.org](https://bsvars.org/)
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
 [**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
-[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)\
+[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)
 
 ### R code
 
