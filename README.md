@@ -19,7 +19,7 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, and **Quantitative Analysis of Finance 2**.
 
-He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier statistical algorithms that are coded using **cpp** via **RcppArmadillo**.
+He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at (bsvars.org)[https://bsvars.org/].
 
 <a href="https://bsvars.org/">
 <img src="bsvars.org.png" alt="bsvars package" height="200"/>
@@ -90,5 +90,3 @@ More details at [bsvars.org](https://bsvars.org/)
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
-
-[CFE](hh.pdf)
