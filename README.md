@@ -15,9 +15,9 @@ Tomasz is an **econometrician** developing the methodology for empirical macroec
 
 In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit non-linear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models.
 
-He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**.
+He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organises the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
 
-Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. In addition, he has developed original materials for the subjects he is currently teaching **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R** and subjects he used to teach **Financial Econometrics**, and **Quantitative Analysis of Finance 2**.
+Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
 He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
@@ -29,6 +29,9 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 </a> 
 <a href="https://bsvars.org/bsvarSIGNs/">
 <img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
+</a>
+<a href="https://bsvars.org/bvarPANELs/">
+<img src="bvarPANELs.png" alt="bvarPANELs package" height="200"/>
 </a>
 
 ### Publications
@@ -50,8 +53,15 @@ More details at [bsvars.org](https://bsvars.org/)
 
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://github.com/bsvars/bvarPANELs) developed for UN's International Labour Organization\
-[**bsvarTVPs**: Bayesian Estimation of Heteroskedastic Structural Vector Autoregressions with Markov-Switching and Time-Varying Identification of the Structural Matrix](https://github.com/bsvars/bsvarTVPs)
+[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://bsvars.org/bvarPANELs) developed for UN's International Labour Organization\
+[**bsvarTVPs**: Bayesian Structural VARs with Time-Varying Identification](https://github.com/bsvars/bsvarTVPs)
+
+
+<a href="mailto:contact@bsvars.org"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50"/> </a> 
+<a href="https://github.com/bsvars/bsvars"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/> </a> 
+<a href="https://bsky.app/profile/bsvars.org"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="50" height="50"/> </a>
+<a rel="me" href="https://fosstodon.org/@bsvars"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="50" height="50"/> </a>
+
 
 ### R code
 
@@ -72,7 +82,7 @@ More details at [bsvars.org](https://bsvars.org/)
 </a> 
 
 
-[Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 20204\
+[Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 2024\
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
