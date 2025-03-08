@@ -82,6 +82,8 @@ More details at [bsvars.org](https://bsvars.org/)
 </a> 
 
 
+I am a member of panel of [finder.com.au cash rate survey](https://www.finder.com.au/rba-cash-rate) and I publish my forecasts at [forecasting-cash-rate.github.io](https://forecasting-cash-rate.github.io)\
+
 [Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 2024\
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
 
