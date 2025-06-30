@@ -30,8 +30,8 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 <a href="https://bsvars.org/bsvarSIGNs/">
 <img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
 </a>
-<a href="https://bsvars.org/bvarPANELs/">
-<img src="bvarPANELs.png" alt="bvarPANELs package" height="200"/>
+<a href="https://bsvars.org/bpvars/">
+<img src="bpvars.png" alt="bpvars package" height="200"/>
 </a>
 
 ### Publications
@@ -53,7 +53,7 @@ More details at [bsvars.org](https://bsvars.org/)
 
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bvarPANELs**: Forecasting with Bayesian Hierarchical Panel Vector Autoregressions](https://bsvars.org/bvarPANELs) developed for UN's International Labour Organization\
+[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization\
 [**bsvarTVPs**: Bayesian Structural VARs with Time-Varying Identification](https://github.com/bsvars/bsvarTVPs)
 
 
