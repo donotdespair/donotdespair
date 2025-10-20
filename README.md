@@ -13,9 +13,9 @@
 
 Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy.
 
-In his research, he investigates reliable methods for assessing economic hypotheses. For example, he published a series of papers that look at Granger causality in the volatility of financial asset returns and macroeconomic aggregates that exhibit non-linear dynamics. Recently, he has worked on methods for using data to verify and compare alternative monetary policy theories represented as structural time series models.
+In his research, he investigates reliable methods for assessing economic hypotheses, estimation and forecasting. This includes his work on Bayesian structural dynamic non-linear system modelling facilitating identification verification of monetary and fiscal policy effects and Granger-causality testing providing insights into the exchange rates markets.
 
-He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organises the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
+He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organised the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
@@ -36,6 +36,7 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 
 ### Publications
 
+[Partial Identification of Structural Vector Autoregressions with Non-Centred Stochastic Volatility](https://doi.org/10.1016/j.jeconom.2025.106107) with Helmut Lütkepohl, Fei Shang, and Luis Uzeda, published in the **Journal of Econometrics**\
 [Markov Switching](https://doi.org/10.1093/acrefore/9780190625979.013.174) with Yong Song, published in the **Oxford Research Encyclopedia of Economics and Finance** in 2021\
 [Bayesian Inference for Structural Vector Autoregressions Identified by Markov-Switching Heteroskedasticity](https://doi.org/10.1016/j.jedc.2020.103862) with Helmut Lütkepohl, published in the **Journal of Economic Dynamics and Control** in 2020\
 [Granger-Causal Analysis of GARCH Models: a Bayesian Approach](http://dx.doi.org/10.1080/07474938.2015.1092839) published in **Econometric Reviews** in 2018\
@@ -53,8 +54,7 @@ More details at [bsvars.org](https://bsvars.org/)
 
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization\
-[**bsvarTVPs**: Bayesian Structural VARs with Time-Varying Identification](https://github.com/bsvars/bsvarTVPs)
+[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization
 
 
 <a href="mailto:contact@bsvars.org"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50"/> </a> 
@@ -84,11 +84,14 @@ More details at [bsvars.org](https://bsvars.org/)
 
 I am a member of panel of [finder.com.au cash rate survey](https://www.finder.com.au/rba-cash-rate) and I publish my forecasts at [forecasting-cash-rate.github.io](https://forecasting-cash-rate.github.io)
 
-[Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [Advanced R Programming](https://arp.numbat.space/) given on 22 May 2024\
-[Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/) on 5 September 2021
+[Predictive Analyses using R packages bsvars & bsvarSIGNs](https://youtu.be/QT02OTZWW14) a recording of my seminar for [**Forecasting for Social Good**](https://www.f4sg.org/)\
+[Structural and Predictive Macro Analyses using the R Package bsvars](https://youtu.be/2iO0yrD0EtU) a recording of my seminar for the [**Workshops for Ukraine**](https://sites.google.com/view/workshopsforukraine/homehttps://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)\
+[Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [**Advanced R Programming**](https://arp.numbat.space/)\
+[Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/)
 
 [Teaching and Learning (Time Series) Econometrics](https://donotdespair.edublogs.org)
 
+[Will Labor's election-year budget lead them to reelection?](https://www.sbs.com.au/language/polish/pl/podcast-episode/czy-budzet-przedwyborczy-prowadzi-partie-pracy-do-zwyciestwa/d30x8kczv) **SBS Polish Radio** broadcasted on 31 March 2025\
 [Labor's election year budget](https://www.sbs.com.au/language/polish/pl/podcast-episode/budzetp-partii-pracy-w-australii-2024/8xervq3yi) **SBS Polish Radio** broadcasted on 20 May 2024\
 [Tomasz on University of Melbourne's Proposal to Raid Our Super](https://www.youtube.com/watch?v=u7rb2Ov-JIc) a comment for the **NTEU** published on 11 July 2023\
 [Melbourne Uni's 'bizarre' 6pc pay rise proposal](https://www.afr.com/work-and-careers/workplace/melbourne-uni-s-bizarre-6pc-pay-rise-proposal-20230621-p5dib2) a comment at **The Australian Financial Review** published on 22 June 2023\
