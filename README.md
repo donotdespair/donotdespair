@@ -19,19 +19,22 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
-He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars) and [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions. The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
+He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions, and [**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
 <a href="https://bsvars.org/">
-<img src="bsvars.org.png" alt="bsvars package" height="200"/>
+<img src="bsvars.org.png" alt="bsvars package" height="160"/>
 </a> 
 <a href="https://bsvars.org/bsvars/">
-<img src="bsvars.png" alt="bsvars package" height="200"/>
+<img src="bsvars.png" alt="bsvars package" height="160"/>
 </a> 
 <a href="https://bsvars.org/bsvarSIGNs/">
-<img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="200"/>
+<img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="160"/>
 </a>
 <a href="https://bsvars.org/bpvars/">
-<img src="bpvars.png" alt="bpvars package" height="200"/>
+<img src="bpvars.png" alt="bpvars package" height="160"/>
+</a>
+<a href="https://bsvars.org/StealLikeBayes/">
+<img src="StealLikeBayes.png" alt="StealLikeBayes package" height="160"/>
 </a>
 
 ### Publications
@@ -54,8 +57,8 @@ More details at [bsvars.org](https://bsvars.org/)
 
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization
-
+[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization\
+[**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes)
 
 <a href="mailto:contact@bsvars.org"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50"/> </a> 
 <a href="https://github.com/bsvars/bsvars"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50"/> </a> 
@@ -72,13 +75,13 @@ More details at [bsvars.org](https://bsvars.org/)
 ### Blogposts and Media
 
 <a href="https://forecasting-cash-rate.github.io">
-<img src="fcr.png" alt="cash rate forecasts" height="200"/>
+<img src="fcr.png" alt="cash rate forecasts" height="160"/>
 </a> 
 <a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
-<img src="mcxs.png" alt="macroeconometrics" height="200"/> 
+<img src="mcxs.png" alt="macroeconometrics" height="160"/> 
 </a> 
 <a href="https://handbook.unimelb.edu.au/2024/subjects/econ90033">
-<img src="qaf1.png" alt="quantitative analysis of finance 1" height="200"/>
+<img src="qaf1.png" alt="quantitative analysis of finance 1" height="160"/>
 </a> 
 
 
