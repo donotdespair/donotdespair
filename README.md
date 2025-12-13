@@ -108,3 +108,5 @@ I am a member of panel of [finder.com.au cash rate survey](https://www.finder.co
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
+
+[mssvf](https://github.com/donotdespair/donotdespair/blob/main/mssvf.pdf)
