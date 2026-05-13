@@ -17,7 +17,7 @@ In his research, he investigates reliable methods for assessing economic hypothe
 
 He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organised the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
 
-Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**, **Advanced Topics in Bayesian Econometrics**, and **Introduction to R**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
+Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
 He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions, and [**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
@@ -77,6 +77,9 @@ More details at [bsvars.org](https://bsvars.org/)
 <a href="https://forecasting-cash-rate.github.io">
 <img src="fcr.png" alt="cash rate forecasts" height="160"/>
 </a> 
+<a href="https://handbook.unimelb.edu.au/2026/subjects/econ10005">
+<img src="qm1.png" alt="quantitative methods 1" height="160"/> 
+</a> 
 <a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
 <img src="mcxs.png" alt="macroeconometrics" height="160"/> 
 </a> 
@@ -108,5 +111,3 @@ I am a member of panel of [finder.com.au cash rate survey](https://www.finder.co
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
-
-[mssvf](https://github.com/donotdespair/donotdespair/blob/main/mssvf.pdf)
