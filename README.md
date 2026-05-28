@@ -5,6 +5,7 @@
 <a href="http://orcid.org/0000-0003-2212-2378"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50"/> </a> 
 <a href="http://scholar.google.com/citations?user=2uWpFrYAAAAJ&hl"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/google-scholar-square.svg" width="50" height="50"/> </a> 
 <a href="http://arxiv.org/a/wozniak_t_1"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/arxiv-square.svg" width="50" height="50"/> </a> 
+<a href="https://www.researchgate.net/profile/Tomasz-Wozniak-2"> <img src="https://raw.githubusercontent.com/jpswalsh/academicons/refs/heads/master/svg/researchgate-square.svg" width="50" height="50"/> </a> 
 <a href="https://bsky.app/profile/tomaszwozniak.bsky.social"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" width="50" height="50"/> </a>
 <a href="https://www.linkedin.com/in/tomasz-wo%C5%BAniak-7b85361b1"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"/> </a>
 <a href="https://fosstodon.org/@tomaszwozniak"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/mastodon.svg" width="50" height="50"/> </a>
@@ -19,7 +20,12 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
-He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs) with fast and efficient algorithms for Bayesian analysis of Structural Vector Autoregressions, and [**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
+He is an author of **R** packages:\
+[**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
+[**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
+[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://cran.r-project.org/package=bpvars)\
+[**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes)\
+The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
 <a href="https://bsvars.org/">
 <img src="bsvars.org.png" alt="bsvars package" height="160"/>
@@ -45,7 +51,9 @@ He is an author of **R** packages [**bsvars**: Bayesian Estimation of Structural
 [Granger-Causal Analysis of GARCH Models: a Bayesian Approach](http://dx.doi.org/10.1080/07474938.2015.1092839) published in **Econometric Reviews** in 2018\
 [Granger Causality and Regime Inference in Markov-switching VAR Models with Bayesian Methods](http://dx.doi.org/10.1002/jae.2531) with Matthieu Droumaguet and Anders Warne, published in the **Journal of Applied Econometrics** in 2017\
 [Bayesian Vector Autoregressions](http://dx.doi.org/10.1111/1467-8462.12179) published in the **Australian Economic Review** in 2016\
-[Testing Causality Between Two Vectors in Multivariate GARCH Models](https://doi.org/10.1016/j.ijforecast.2015.01.005) published in the **International Journal of Forecasting** in 2015
+[Testing Causality Between Two Vectors in Multivariate GARCH Models](https://doi.org/10.1016/j.ijforecast.2015.01.005) published in the **International Journal of Forecasting** in 2015\
+
+See my working papers at [arxiv.org](http://arxiv.org/a/wozniak_t_1)
 
 ### Thesis
 
