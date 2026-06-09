@@ -23,22 +23,22 @@ Tomasz has an extensive teaching portfolio, including developing and lecturing g
 He is an author of **R** packages: [**bsvars**](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**](https://cran.r-project.org/package=bsvarSIGNs), [**bpvars**](https://cran.r-project.org/package=bpvars), [**bvars**](https://cran.r-project.org/package=bvars), and [**StealLikeBayes**](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
 <a href="https://bsvars.org/">
-<img src="bsvars.org.png" alt="bsvars package" height="160"/>
+<img src="bsvars.org.png" alt="bsvars package" height="150"/>
 </a> 
 <a href="https://bsvars.org/bsvars/">
-<img src="bsvars.png" alt="bsvars package" height="160"/>
+<img src="bsvars.png" alt="bsvars package" height="150"/>
 </a> 
 <a href="https://bsvars.org/bsvarSIGNs/">
-<img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="160"/>
+<img src="bsvarSIGNs.png" alt="bsvarSIGNs package" height="150"/>
 </a>
 <a href="https://bsvars.org/bpvars/">
-<img src="bpvars.png" alt="bpvars package" height="160"/>
+<img src="bpvars.png" alt="bpvars package" height="150"/>
 </a>
 <a href="https://bsvars.org/bvars/">
-<img src="bvars.png" alt="bvars package" height="160"/>
+<img src="bvars.png" alt="bvars package" height="150"/>
 </a>
 <a href="https://bsvars.org/StealLikeBayes/">
-<img src="StealLikeBayes.png" alt="StealLikeBayes package" height="160"/>
+<img src="StealLikeBayes.png" alt="StealLikeBayes package" height="150"/>
 </a>
 
 ### Publications
