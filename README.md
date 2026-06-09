@@ -20,12 +20,7 @@ He works as a Senior Lecturer at the Department of Economics of the University o
 
 Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
 
-He is an author of **R** packages:\
-[**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
-[**bsvarSIGNs**: Bayesian SVARs with Sign, Zero, and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
-[**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://cran.r-project.org/package=bpvars)\
-[**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes)\
-The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
+He is an author of **R** packages: [**bsvars**](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**](https://cran.r-project.org/package=bsvarSIGNs), [**bpvars**](https://cran.r-project.org/package=bpvars), [**bvars**](https://cran.r-project.org/package=bvars), and [**StealLikeBayes**](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
 <a href="https://bsvars.org/">
 <img src="bsvars.org.png" alt="bsvars package" height="160"/>
@@ -38,6 +33,9 @@ The packages implement frontier econometric and numerical methods that are coded
 </a>
 <a href="https://bsvars.org/bpvars/">
 <img src="bpvars.png" alt="bpvars package" height="160"/>
+</a>
+<a href="https://bsvars.org/bvars/">
+<img src="bvars.png" alt="bvars package" height="160"/>
 </a>
 <a href="https://bsvars.org/StealLikeBayes/">
 <img src="StealLikeBayes.png" alt="StealLikeBayes package" height="160"/>
@@ -66,6 +64,7 @@ More details at [bsvars.org](https://bsvars.org/)
 [**bsvars**: Bayesian Estimation of Structural Vector Autoregressive Models](https://cran.r-project.org/package=bsvars)\
 [**bsvarSIGNs**: Bayesian Estimation of Structural Vector Autoregressive Models Identified by Sign and Narrative Restrictions](https://cran.r-project.org/package=bsvarSIGNs)\
 [**bpvars**: Forecasting with Bayesian Panel Vector Autoregressions](https://bsvars.org/bpvars) developed for UN's International Labour Organization\
+[**bvars**: Bayesian Forecasting with Large Vector Autoregressions](https://bsvars.org/bvars)\
 [**StealLikeBayes**: A Compendium of Bayesian Statistical Routines Written in C++](https://cran.r-project.org/package=StealLikeBayes)
 
 <a href="mailto:contact@bsvars.org"> <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" width="50" height="50"/> </a> 
