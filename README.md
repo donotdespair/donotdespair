@@ -44,24 +44,25 @@ He is an author of **R** packages: [**bsvars**](https://cran.r-project.org/packa
 ### Publications
 
 [Partial Identification of Structural Vector Autoregressions with Non-Centred Stochastic Volatility](https://doi.org/10.1016/j.jeconom.2025.106107) with Helmut Lütkepohl, Fei Shang, and Luis Uzeda, published in the **Journal of Econometrics** in 2026\
-[ [paper](https://doi.org/10.1016/j.jeconom.2025.106107) | [working paper](https://doi.org/10.48550/arXiv.2404.11057) | [code](https://github.com/donotdespair/lsuw_replication) ]
+[ [paper](https://doi.org/10.1016/j.jeconom.2025.106107) | [working paper](https://doi.org/10.48550/arXiv.2404.11057) | [code](https://github.com/donotdespair/lsuw_replication) | [![](https://img.shields.io/badge/doi-10.1016/j.jeconom.2025.106107-green.svg)](https://doi.org/10.1016/j.jeconom.2025.106107) ]
 
 [Markov Switching](https://doi.org/10.1093/acrefore/9780190625979.013.174) with Yong Song, published in the **Oxford Research Encyclopedia of Economics and Finance** in 2021\
-[ [paper](https://doi.org/10.1093/acrefore/9780190625979.013.174) | [working paper](https://doi.org/10.48550/arXiv.2002.03598) ]
+[ [paper](https://doi.org/10.1093/acrefore/9780190625979.013.174) | [working paper](https://doi.org/10.48550/arXiv.2002.03598) | [![](https://img.shields.io/badge/doi-10.1093/acrefore/9780190625979.013.174-green.svg)](https://doi.org/10.1093/acrefore/9780190625979.013.174) ]
 
 [Bayesian Inference for Structural Vector Autoregressions Identified by Markov-Switching Heteroskedasticity](https://doi.org/10.1016/j.jedc.2020.103862) with Helmut Lütkepohl, published in the **Journal of Economic Dynamics and Control** in 2020\
-[ [paper](https://doi.org/10.1016/j.jedc.2020.103862) | [working paper](https://arxiv.org/abs/1811.08167) | [code](https://github.com/donotdespair/SVAR-MSH-ID) ]
+[ [paper](https://doi.org/10.1016/j.jedc.2020.103862) | [working paper](https://arxiv.org/abs/1811.08167) | [code](https://github.com/donotdespair/SVAR-MSH-ID) | [![](https://img.shields.io/badge/doi-10.1016/j.jedc.2020.103862-green.svg)](https://doi.org/10.1016/j.jedc.2020.103862) ]
 
 [Granger-Causal Analysis of GARCH Models: a Bayesian Approach](http://dx.doi.org/10.1080/07474938.2015.1092839) published in **Econometric Reviews** in 2018\
-[ [paper](http://dx.doi.org/10.1080/07474938.2015.1092839) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0011/1429229/1194TomaszWozniak2010.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]
+[ [paper](http://dx.doi.org/10.1080/07474938.2015.1092839) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0011/1429229/1194TomaszWozniak2010.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) | [![](https://img.shields.io/badge/doi-10.1080/07474938.2015.1092839-green.svg)](https://doi.org/10.1080/07474938.2015.1092839) ]
 
 [Granger Causality and Regime Inference in Markov-switching VAR Models with Bayesian Methods](http://dx.doi.org/10.1002/jae.2531) with Matthieu Droumaguet and Anders Warne, published in the **Journal of Applied Econometrics** in 2017\
-[ [paper](http://dx.doi.org/10.1002/jae.2531) | [ECB working paper](https://doi.org/10.2866/845677) | [code](https://github.com/donotdespair/BayesianMS-VAR-GC) ]
+[ [paper](http://dx.doi.org/10.1002/jae.2531) | [ECB working paper](https://doi.org/10.2866/845677) | [code](https://github.com/donotdespair/BayesianMS-VAR-GC) | [![](https://img.shields.io/badge/doi-10.1002/jae.2531-green.svg)](https://doi.org/10.1002/jae.2531) ]
 
-[Bayesian Vector Autoregressions](http://dx.doi.org/10.1111/1467-8462.12179) published in the **Australian Economic Review** in 2016
+[Bayesian Vector Autoregressions](http://dx.doi.org/10.1111/1467-8462.12179) published in the **Australian Economic Review** in 2016\
+[ [paper](http://dx.doi.org/10.1002/jae.2531) | [![](https://img.shields.io/badge/doi-10.1111/1467--8462.12179-green.svg)](https://doi.org/10.1111/1467-8462.12179) ]
 
 [Testing Causality Between Two Vectors in Multivariate GARCH Models](https://doi.org/10.1016/j.ijforecast.2015.01.005) published in the **International Journal of Forecasting** in 2015\
-[ [paper](https://doi.org/10.1016/j.ijforecast.2015.01.005) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0006/784302/1139.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]
+[ [paper](https://doi.org/10.1016/j.ijforecast.2015.01.005) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0006/784302/1139.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) | [![](https://img.shields.io/badge/doi-10.1016/j.ijforecast.2015.01.005-green.svg)](https://doi.org/10.1016/j.ijforecast.2015.01.005) ]
 
 See my working papers at [arxiv.org](http://arxiv.org/a/wozniak_t_1)
 
