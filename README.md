@@ -14,7 +14,7 @@
 
 Tomasz is an **econometrician** researching new methods for empirical macroeconomic analysis. He works on statistical and mathematical models to describe economic reality and to measure the effects of government decisions on the real economy.
 
-In his research, he investigates Bayesian, dynamic, structural, non-linear, and system modelling methods, as well as reliable methods for estimation, forecasting, and assessing economic hypotheses. This includes his work on Bayesian structural vector autoregressions identified through time-varying volatility, which helps assess monetary and fiscal policy effects and macro-financial interactions. He has also worked on verifying Granger-causality hypotheses in non-linear settings, providing insights into exchange rate markets and macro-monetary interactions.
+His research covers Bayesian, dynamic, structural, non-linear, and system modelling. He also develops reliable methods for estimation, forecasting, and testing economic hypotheses. One strand of this work uses Bayesian structural vector autoregressions identified through time-varying volatility. These models help assess the effects of monetary and fiscal policy and macro-financial interactions. He has also worked on testing Granger-causality hypotheses in non-linear settings. This work offers insights into exchange rate markets and macro-monetary interactions.
 
 He is a Senior Lecturer in the Department of Economics at the University of Melbourne, a co-founder of the **Bayesian Analysis and Modelling Research Group**, and a co-organiser of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organised the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
 
