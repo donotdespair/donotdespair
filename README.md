@@ -12,13 +12,15 @@
 
 ### Bio
 
-Tomasz is an **econometrician** developing the methodology for empirical macroeconomic analyses. He develops statistical and mathematical models to describe economic reality and measure the effects of government decisions on the real economy.
+Tomasz is an **econometrician** researching new methods for empirical macroeconomic analysis. He works on statistical and mathematical models to describe economic reality and to measure the effects of government decisions on the real economy.
 
-In his research, he investigates reliable methods for assessing economic hypotheses, estimation and forecasting. This includes his work on Bayesian structural dynamic non-linear system modelling facilitating identification verification of monetary and fiscal policy effects and Granger-causality testing providing insights into the exchange rates markets.
+In his research, he investigates Bayesian, dynamic, structural, non-linear, and system modelling methods, as well as reliable methods for estimation, forecasting, and assessing economic hypotheses. This includes his work on Bayesian structural vector autoregressions identified through time-varying volatility, which helps assess monetary and fiscal policy effects and macro-financial interactions. He has also worked on verifying Granger-causality hypotheses in non-linear settings, providing insights into exchange rate markets and macro-monetary interactions.
 
-He works as a Senior Lecturer at the Department of Economics of the University of Melbourne, is a co-founder of the **Bayesian Analysis and Modelling Research Group**, and is a co-organizer of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organised the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
+He is a Senior Lecturer in the Department of Economics at the University of Melbourne, a co-founder of the **Bayesian Analysis and Modelling Research Group**, and a co-organiser of the annual **Melbourne Bayesian Econometrics Workshop** and the **BAM Summer Workshop**. He co-organised the [European Seminar on Bayesian Econometrics](https://mbs.edu/esobe) in Melbourne in 2025.
 
-Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master's, and doctorate students, as well as tutoring programming and project management to his peers. He is currently lecturing **Quantitative Methods 1**. In addition, he has developed original materials for the subjects he used to teach, including **Macroeconometrics**, **Quantitative Analysis of Finance 1**, **Quantitative Analysis of Finance 2**, and **Financial Econometrics**.
+Tomasz has an extensive teaching portfolio, including developing and lecturing graduate-level subjects, supervising honours, master’s, and doctoral students, and tutoring programming and project management. He is currently lecturing **Quantitative Methods 1**. He has also developed original materials for the subjects he previously taught, including **Macroeconometrics**, **Quantitative Analysis of Finance 1** and **2**, and **Financial Econometrics**.
+
+He developed a new suite of forecasting models for the **International Labour Organization** focusing on forecasting labour markets globally using country-level time series data and implemented in the **R** package [**bpvars**](https://cran.r-project.org/package=bpvars).
 
 He is an author of **R** packages: [**bsvars**](https://cran.r-project.org/package=bsvars), [**bsvarSIGNs**](https://cran.r-project.org/package=bsvarSIGNs), [**bpvars**](https://cran.r-project.org/package=bpvars), [**bvars**](https://cran.r-project.org/package=bvars), and [**StealLikeBayes**](https://cran.r-project.org/package=StealLikeBayes). The packages implement frontier econometric and numerical methods that are coded using **C++**. More info at [bsvars.org](https://bsvars.org/).
 
@@ -44,31 +46,25 @@ He is an author of **R** packages: [**bsvars**](https://cran.r-project.org/packa
 ### Publications
 
 [Partial Identification of Structural Vector Autoregressions with Non-Centred Stochastic Volatility](https://doi.org/10.1016/j.jeconom.2025.106107) with Helmut Lütkepohl, Fei Shang, and Luis Uzeda, published in the **Journal of Econometrics** in 2026\
-[ [paper](https://doi.org/10.1016/j.jeconom.2025.106107) | [working paper](https://doi.org/10.48550/arXiv.2404.11057) | [code](https://github.com/donotdespair/lsuw_replication) ]\
-[![](https://img.shields.io/badge/doi-10.1016/j.jeconom.2025.106107-green.svg)](https://doi.org/10.1016/j.jeconom.2025.106107)
+[ [paper](https://doi.org/10.1016/j.jeconom.2025.106107) | [working paper](https://doi.org/10.48550/arXiv.2404.11057) | [code](https://github.com/donotdespair/lsuw_replication) ]
 
 [Markov Switching](https://doi.org/10.1093/acrefore/9780190625979.013.174) with Yong Song, published in the **Oxford Research Encyclopedia of Economics and Finance** in 2021\
-[ [paper](https://doi.org/10.1093/acrefore/9780190625979.013.174) | [working paper](https://doi.org/10.48550/arXiv.2002.03598) ]\
-[![](https://img.shields.io/badge/doi-10.1093/acrefore/9780190625979.013.174-green.svg)](https://doi.org/10.1093/acrefore/9780190625979.013.174)
+[ [paper](https://doi.org/10.1093/acrefore/9780190625979.013.174) | [working paper](https://doi.org/10.48550/arXiv.2002.03598) ]
 
 [Bayesian Inference for Structural Vector Autoregressions Identified by Markov-Switching Heteroskedasticity](https://doi.org/10.1016/j.jedc.2020.103862) with Helmut Lütkepohl, published in the **Journal of Economic Dynamics and Control** in 2020\
-[ [paper](https://doi.org/10.1016/j.jedc.2020.103862) | [working paper](https://arxiv.org/abs/1811.08167) | [code](https://github.com/donotdespair/SVAR-MSH-ID) ]\
-[![](https://img.shields.io/badge/doi-10.1016/j.jedc.2020.103862-green.svg)](https://doi.org/10.1016/j.jedc.2020.103862)
+[ [paper](https://doi.org/10.1016/j.jedc.2020.103862) | [working paper](https://arxiv.org/abs/1811.08167) | [code](https://github.com/donotdespair/SVAR-MSH-ID) ]
 
 [Granger-Causal Analysis of GARCH Models: a Bayesian Approach](http://dx.doi.org/10.1080/07474938.2015.1092839) published in **Econometric Reviews** in 2018\
-[ [paper](http://dx.doi.org/10.1080/07474938.2015.1092839) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0011/1429229/1194TomaszWozniak2010.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]\
-[![](https://img.shields.io/badge/doi-10.1080/07474938.2015.1092839-green.svg)](https://doi.org/10.1080/07474938.2015.1092839) 
+[ [paper](http://dx.doi.org/10.1080/07474938.2015.1092839) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0011/1429229/1194TomaszWozniak2010.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]
 
 [Granger Causality and Regime Inference in Markov-switching VAR Models with Bayesian Methods](http://dx.doi.org/10.1002/jae.2531) with Matthieu Droumaguet and Anders Warne, published in the **Journal of Applied Econometrics** in 2017\
-[ [paper](http://dx.doi.org/10.1002/jae.2531) | [ECB working paper](https://doi.org/10.2866/845677) | [code](https://github.com/donotdespair/BayesianMS-VAR-GC) ]\
-[![](https://img.shields.io/badge/doi-10.1002/jae.2531-green.svg)](https://doi.org/10.1002/jae.2531)
+[ [paper](http://dx.doi.org/10.1002/jae.2531) | [ECB working paper](https://doi.org/10.2866/845677) | [code](https://github.com/donotdespair/BayesianMS-VAR-GC) ]
 
 [Bayesian Vector Autoregressions](http://dx.doi.org/10.1111/1467-8462.12179) published in the **Australian Economic Review** in 2016\
-[![](https://img.shields.io/badge/doi-10.1111/1467--8462.12179-green.svg)](https://doi.org/10.1111/1467-8462.12179)
+[ [paper](http://dx.doi.org/10.1111/1467-8462.12179) ]
 
 [Testing Causality Between Two Vectors in Multivariate GARCH Models](https://doi.org/10.1016/j.ijforecast.2015.01.005) published in the **International Journal of Forecasting** in 2015\
-[ [paper](https://doi.org/10.1016/j.ijforecast.2015.01.005) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0006/784302/1139.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]\
-[![](https://img.shields.io/badge/doi-10.1016/j.ijforecast.2015.01.005-green.svg)](https://doi.org/10.1016/j.ijforecast.2015.01.005)
+[ [paper](https://doi.org/10.1016/j.ijforecast.2015.01.005) | [working paper](https://fbe.unimelb.edu.au/__data/assets/pdf_file/0006/784302/1139.pdf) | [code](https://github.com/donotdespair/BayesianECCCGARCH) ]
 
 See my working papers at [arxiv.org](http://arxiv.org/a/wozniak_t_1)
 
@@ -98,19 +94,20 @@ More details at [bsvars.org](https://bsvars.org/)
 [Bayesian Estimation of Markov-Switching VARs for Granger Causal Inference in R](https://gitlab.com/tomaszwozniak/BayesianMS-VAR-GC)\
 [Bayesian Estimation and Inference for the ECCC-GARCH Model in R](https://gitlab.com/tomaszwozniak/BayesianECCCGARCH)
 
-### Blogposts and Media
+
+### Blogposts and media
 
 <a href="https://forecasting-cash-rate.github.io">
-<img src="fcr.png" alt="cash rate forecasts" height="160"/>
+<img src="fcr.png" alt="cash rate forecasts" height="150"/>
 </a> 
 <a href="https://handbook.unimelb.edu.au/2026/subjects/econ10005">
-<img src="qm1.png" alt="quantitative methods 1" height="160"/> 
+<img src="qm1.png" alt="quantitative methods 1" height="150"/> 
 </a> 
 <a href="https://handbook.unimelb.edu.au/2024/subjects/ecom90007">
-<img src="mcxs.png" alt="macroeconometrics" height="160"/> 
+<img src="mcxs.png" alt="macroeconometrics" height="150"/> 
 </a> 
 <a href="https://handbook.unimelb.edu.au/2024/subjects/econ90033">
-<img src="qaf1.png" alt="quantitative analysis of finance 1" height="160"/>
+<img src="qaf1.png" alt="quantitative analysis of finance 1" height="150"/>
 </a> 
 
 
@@ -118,6 +115,8 @@ I am a member of panel of [finder.com.au cash rate survey](https://www.finder.co
 
 [Predictive Analyses using R packages bsvars & bsvarSIGNs](https://youtu.be/QT02OTZWW14) a recording of my seminar for [**Forecasting for Social Good**](https://www.f4sg.org/)\
 [Structural and Predictive Macro Analyses using the R Package bsvars](https://youtu.be/2iO0yrD0EtU) a recording of my seminar for the [**Workshops for Ukraine**](https://sites.google.com/view/workshopsforukraine/homehttps://sites.google.com/view/dariia-mykhailyshyna/main/r-workshops-for-ukraine)\
+[Getting Started with C++ for Faster Forecasting in R](https://wombat2026.numbat.space/program/tutorials/CUWXCY.html) a workshop given for [WOMBAT 2026](https://wombat2026.numbat.space/)
+[Getting Started with C++ for Faster Statistical Modelling in R](https://wombat2025.numbat.space/program/tutorials/KCZEMB.html) a workshop given for [WOMBAT 2025](https://wombat2025.numbat.space/)
 [Rewriting R code in C++](https://arp.numbat.space/week12/) a guest lecture for [**Advanced R Programming**](https://arp.numbat.space/)\
 [Simulation Smoother using RcppArmadillo](https://gallery.rcpp.org/articles/simulation-smoother-using-rcpparmadillo/) published in the [**Rcpp Gallery**](https://gallery.rcpp.org/)
 
@@ -137,5 +136,3 @@ I am a member of panel of [finder.com.au cash rate survey](https://www.finder.co
 [Unemployment and real estate market during the coronavirus crisis](https://www.sbs.com.au/yourlanguage/audiotrack/dr-t-wozniak-bezrobocie) **SBS Polish Radio** broadcasted on 30 August 2020\
 [Will the Australian economy survive during pandemic?](https://www.sbs.com.au/language/english/audio/will-the-australian-economy-survive-during-pandemic) **SBS Polish Radio** broadcasted on 7 June 2020\
 [Economic policy during coronavirus pandemic in Australia](https://www.youtube.com/watch?v=Jb261mrTa9M&ab_channel=AustralianInstituteofPolishAffairs) **Australian Institute for Polish Affairs** youtube channel published on 8 May 2020
-
-[EcoSta](https://github.com/donotdespair/donotdespair/blob/e0885c6ee5cb5950f62eeb586804a2805c6b29f8/tw_ecosta.pdf)
